@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modular Ring
+* source:	https://sketchfab.com/3d-models/modular-ring-bc9817cdb102430f8198584ea1081650
+* author:	d880 (https://sketchfab.com/distance880)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modular Ring" (https://sketchfab.com/3d-models/modular-ring-bc9817cdb102430f8198584ea1081650) by d880 (https://sketchfab.com/distance880) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

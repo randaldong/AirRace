@@ -1,0 +1,11 @@
+Model Information:
+* title:	R/GA_Arrows_1
+* source:	https://sketchfab.com/3d-models/rga-arrows-1-1340ca2440264b85b53a06def0b7cc87
+* author:	andrew.carmichael (https://sketchfab.com/andrew.carmichael)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "R/GA_Arrows_1" (https://sketchfab.com/3d-models/rga-arrows-1-1340ca2440264b85b53a06def0b7cc87) by andrew.carmichael (https://sketchfab.com/andrew.carmichael) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

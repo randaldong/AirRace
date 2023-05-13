@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stargate
+* source:	https://sketchfab.com/3d-models/stargate-1af03ae28595490aa11ce3ba07b1e23f
+* author:	stale_mud (https://sketchfab.com/stale_mud)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stargate" (https://sketchfab.com/3d-models/stargate-1af03ae28595490aa11ce3ba07b1e23f) by stale_mud (https://sketchfab.com/stale_mud) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

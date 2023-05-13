@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arrow
+* source:	https://sketchfab.com/3d-models/arrow-7b62dae60f2c4443b9f499c833171ca5
+* author:	Jakob Henerey (https://sketchfab.com/hellonintendo8)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arrow" (https://sketchfab.com/3d-models/arrow-7b62dae60f2c4443b9f499c833171ca5) by Jakob Henerey (https://sketchfab.com/hellonintendo8) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
